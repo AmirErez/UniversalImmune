@@ -11,5 +11,6 @@ Contents:
 	* OT1Sig_20140918.mat	- see below
 	* OT1Sig_20150918.mat	- see below
 	* OT1Sig_20151206.mat	- All three, previously published in Vogel,Erez,Altan-Bonnet, Nature Communications 7:12428 (2016)
+ 	https://www.nature.com/articles/ncomms12428?origin=ppub
  
 * src: MATLAB scripts to make figures
